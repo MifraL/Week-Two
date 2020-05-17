@@ -10,6 +10,9 @@ The ethical dimensions related to doing this work
 
 -	The ethical dimensions of doing is work is total accessibility. If the organization that is funding the project has a lot volunteers and they allow anyone to join. This could result in lot of human errors. I'm sure they have editors but that is a lot of work when they have to basically go through every single one of them... to make sure that it is correct. The question of how many of them know the backround of what they are transcribing. I believe it is necessary to know so that the transciptions will make sense.
 
+- There was a blog post @http://thenhier.ca/en/content/blog-contest-ethical-dimension.html regarding the topic that I found helpful
+
 The resources offered by Carleton
+
 
 -	I think most academic papers that I would require are online in the Carleton portals. But, last semester, I realized that Carleton had a lot of archival resources that I was not aware of… as students we were allowed to go in their rooms to see it in person if we ever required them for research. This also presents a barrier because not all theses materials are accessible online. As a student, I would fit into it as one of their targeted customers. Most of these research papers require interest in the topic itself... I think Carleton is doing a great job at separating databases based on the program that the students are taking. This makes the research even more easier compared to when I had just started University. 
