@@ -60,8 +60,8 @@ OCR
 
 -	Had a hard time finding the image downloaded. Again, I try to do all these applications on the same day to see if I could get any of them right. I think that was a bad idea because I got stuck in similar issues...
 -	Then trying to open it in R studio
--	The commands were not working at first. I had an issue with trying to add the file into the R studio due to the way I saved the image.
--After I fixed the mistake, everthing else was fine.
+-	The commands were not working at first. I had an issue with trying to add the file into the R studio due to the way I saved the image as even in the corner with the value section, I had an extra line with the line that said "text"...
+-After I fixed the mistake with the image location, everthing else was fine after I redid the process.
 
 ![image i just uploaded](ocr1.JPG)
 ![image i just uploaded](ocr2.JPG)
