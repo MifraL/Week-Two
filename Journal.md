@@ -14,5 +14,6 @@ The ethical dimensions related to doing this work
 
 The resources offered by Carleton
 
+![image i just uploaded](journal.JPG)
 
 -	I think most academic papers that I would require are online in the Carleton portals. But, last semester, I realized that Carleton had a lot of archival resources that I was not aware of… as students we were allowed to go in their rooms to see it in person if we ever required them for research. This also presents a barrier because not all theses materials are accessible online. As a student, I would fit into it as one of their targeted customers. Most of these research papers require interest in the topic itself... I think Carleton is doing a great job at separating databases based on the program that the students are taking. This makes the research even more easier compared to when I had just started University. 
