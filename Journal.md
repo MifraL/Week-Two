@@ -1,4 +1,4 @@
-Who pays for the work to end up online?
+*Who pays for the work to end up online?*
 
 -	For research, I would assume that they are funded by organizations to study certain issues like the Transcribe Bentham Project. The people that does the work would mostly be researchers. So the most of the cost would be allocated to their professional salaries. Then it would mostly be spent on the tools needed for doing that particular study. A significant investments will be allocated to make sure the research can maintain high quality. In the case of Transcribe Bentham, most of the manpower was volunteers so that did not cost as much money. 
 
