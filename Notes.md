@@ -43,22 +43,25 @@ Wget
 ![image i just uploaded](wget10.JPG)
 
 
-Api 
--	Got an error when I opened it in the power…
+API 
+
+-	Got an error when I opened it in the anacondapowershell
 -	Because I put the whole code in one file in the sublime text
 -	Then I tried making separate files but they wouldn’t save together
+- After I fixed the issue with wget, I made sure to check where my file was and again it was an issue with the correct location in the computer files and as I fixed it.  
 
 ![image i just uploaded](API1.JPG)
 ![image i just uploaded](api2.JPG)
 ![image i just uploaded](api3.JPG)
 ![image i just uploaded](api4.JPG)
 ![image i just uploaded](api5.JPG)
-![image i just uploaded](api6.JPG)
 
-Ocr
--	Had a hard time finding the image downloaded
+OCR
+
+-	Had a hard time finding the image downloaded. Again, I try to do all these applications on the same day to see if I could get any of them right. I think that was a bad idea because I got stuck in similar issues...
 -	Then trying to open it in R studio
--	Worked
+-	The commands were not working at first. I had an issue with trying to add the file into the R studio due to the way I saved the image.
+-After I fixed the mistake, everthing else was fine.
 
 ![image i just uploaded](ocr1.JPG)
 ![image i just uploaded](ocr2.JPG)
