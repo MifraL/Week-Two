@@ -44,6 +44,7 @@ Terms
 ![image i just uploaded](week2re2.JPG)
 
 Embargoed = It is when information can only be published after a certain date. 
+
 Crowdsourcing = When a large number of people are tasked to obtain information 
 
 -	questions if the volunteer’s contribution are of use in creation a scholarly database and if the launching is worth it in terms of finance
