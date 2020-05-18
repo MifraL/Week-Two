@@ -78,7 +78,7 @@ Ubiquitous = When someone’s influence can be seen everywhere
 
 -	An interpretation has its own temporality and spatiality. It was really broad way of defining interpretation. 
 
-Reading 5: Transcription maximized; expense minimized? Crowdsourcing and editing The Collected Works of Jeremy Bentham LLC 27.2 by Causer, Tonra and Wallace. 
+Reading 6: Transcription maximized; expense minimized? Crowdsourcing and editing The Collected Works of Jeremy Bentham LLC 27.2 by Causer, Tonra and Wallace. 
 
 -	it attempts to assess the potential benefits of engaging the public in humanities research.  
 -	Jeremey Bentham was originator of contemporary notions of surveillance through his proposed panopticon prison. I remember reading his article in two of my classes. How he talked about designing the prison in a way that prisoners always will feel like they are being watched.
