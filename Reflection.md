@@ -10,6 +10,7 @@ Recording
 Reading 1: Topic modeling Martha Ballard’s diary by Cameron Blevins 
 
 Terms: 
+![image i just uploaded](week2re1.JPG)
 
 Topic modeling = It is a database that is capable of scanning archival materials and detecting their writing patters to cluster them into categories. 
 
@@ -40,6 +41,8 @@ Reading 4: ”Making such bargain: Transcribe Bentham and the quality and cost-e
 
 Terms 
 
+![image i just uploaded](week2re2.JPG)
+
 Embargoed = It is when information can only be published after a certain date. 
 Crowdsourcing = When a large number of people are tasked to obtain information 
 
@@ -58,6 +61,8 @@ Crowdsourcing = When a large number of people are tasked to obtain information
 Reading 5: Humanities approaches to graphical display by Johanna Drucker 
 
 Terms 
+
+![image i just uploaded](week2re3.JPG)
 
 Ubiquitous = When someone’s influence can be seen everywhere 
 
